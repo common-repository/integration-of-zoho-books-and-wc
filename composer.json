@@ -1,0 +1,11 @@
+{
+    "name": "bitapps/bit_wc_zoho_books",
+    "description": "WooCommerce to Zoho Books Integration plugin by Bit Apps",
+    "license": "gpl-2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FormInteg\\BIT_WC_ZOHO_BOOKS\\": "includes/"
+        }
+    }
+}
